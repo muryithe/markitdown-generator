@@ -1,8 +1,8 @@
-# Kenyan Context — Reference Converter
+# Markitdown Reference Converter
 
-Converts a folder of reference documents into individual Markdown files ready for use as LLM prompts.
+Converts a folder of reference documents into individual Markdown files.
 
-Built for the **Kenyan Context** project, but works with any reference folder.
+Works with any reference folder.
 
 ---
 
